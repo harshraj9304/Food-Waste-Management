@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+.env
+.DS_Store
+Thumbs.db
+setup_db.php
+reset_pass.sql
+modules.txt
+diag.php
