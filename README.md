@@ -5,7 +5,7 @@ This is a full-stack web application designed to reduce food wastage by connecti
 
 **📂 Source Code:** The complete source code is located in the [`food-waste-management-system/`](food-waste-management-system/) directory.
 
-**🚀 Interview Prep:** Check out the [`INTERVIEW_GUIDE.md`](INTERVIEW_GUIDE.md) for technical explanations and Q&A.
+
 
 ## Quick Start
 1.  Import `food-waste-management-system/database/demo.sql` into MySQL.
